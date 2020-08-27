@@ -1,0 +1,10 @@
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\bin\Debug\ConsoleApp_PractiseModule.exe.config
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\bin\Debug\ConsoleApp_PractiseModule.exe
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\bin\Debug\ConsoleApp_PractiseModule.pdb
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\bin\Debug\Laptop.dll
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\bin\Debug\Laptop.pdb
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\obj\Debug\ConsoleApp_PractiseModule.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\obj\Debug\ConsoleApp_PractiseModule.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\obj\Debug\ConsoleApp_PractiseModule.csproj.CopyComplete
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\obj\Debug\ConsoleApp_PractiseModule.exe
+C:\Users\Михаил\Desktop\PractiseModule\ConsoleApp_PractiseModule\obj\Debug\ConsoleApp_PractiseModule.pdb

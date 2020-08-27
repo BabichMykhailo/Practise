@@ -1,0 +1,5 @@
+C:\Users\Михаил\Desktop\PractiseModule\Laptop\bin\Debug\Laptop.dll
+C:\Users\Михаил\Desktop\PractiseModule\Laptop\bin\Debug\Laptop.pdb
+C:\Users\Михаил\Desktop\PractiseModule\Laptop\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\PractiseModule\Laptop\obj\Debug\Laptop.dll
+C:\Users\Михаил\Desktop\PractiseModule\Laptop\obj\Debug\Laptop.pdb
